@@ -1,0 +1,21 @@
+{
+  "name": "Tracrypto",
+  "short_name": "Tracrypto",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/assets/icons/dollars.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x1070",
+      "form_factor": "narrow"
+    }
+  ]
+}
